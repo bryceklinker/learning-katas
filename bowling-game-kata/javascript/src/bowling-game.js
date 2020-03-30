@@ -1,5 +1,5 @@
 export class BowlingGame {
-    roll() {
+    roll(pins) {
 
     }
     score() {
